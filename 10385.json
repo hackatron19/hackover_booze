@@ -1,0 +1,43 @@
+{
+  "_id": "5b21ca3eeb7f6fbccd471814",
+  "name": "VISHAL GORAI",
+  "roll": "BTECH/10385/18",
+  "branch": "IT",
+  "subjects": [
+    {
+      "_id": "5b21ca3eeb7f6fbccd471815",
+      "name": "DISCRETE MATHS",
+      "present": 40,
+      "absent": "15",
+      "smilee": "true"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471816",
+      "name": "DIGITAL SYSTEM DESIGN",
+      "present": "30",
+      "absent": "40",
+      "smilee": "true"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471817",
+      "name": "BAISC INTELLIGNT COMPUTING",
+      "present": "45",
+      "absent": "10",
+      "smilee": "true"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471818",
+      "name": "BIOLOGY",
+      "present": "10",
+      "absent": "30",
+      "smilee": "true"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471819",
+      "name": "DATA STRUCTURE",
+      "present": "50",
+      "absent": "10",
+      "smilee": "true"
+    }
+  ]
+}
