@@ -7,7 +7,7 @@ fs.readFile('./t.json','utf8',(err, jsonString1) => {
     }
     var content1 = JSON.parse(jsonString1);
     content1.roll1.forEach(sub=>{
-fs.readFile((path.join('../hack/hackatorn/src/',sub.roll +'.json')),'utf8',(err, jsonString) => {
+fs.readFile((path.join('./frontend/src/',sub.roll +'.json')),'utf8',(err, jsonString) => {
     if (err) {
         console.log("File read failed:", err)
         return
@@ -26,7 +26,7 @@ fs.readFile((path.join('../hack/hackatorn/src/',sub.roll +'.json')),'utf8',(err,
     });
     
     let data = JSON.stringify(content, null, 2);
-    fs.writeFile((path.join('../hack/hackatorn/src/',sub.roll +'.json')), data, (err) => {
+    fs.writeFile((path.join('./frontend/src/',sub.roll +'.json')), data, (err) => {
         if (err) throw err;
         console.log('Data written to file');
     });
