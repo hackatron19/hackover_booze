@@ -41,5 +41,9 @@ We have used a pre trained model Keras-OpenFace which is an open source Keras im
  These orgs as we assume won't have any of the previous installations, and accordingly we'll have to set up the camera system, server set-up, and the installation. This roughly will cost around 6k.
 
  ### 2. Mid-scale
+ We are asssuming that these orgs will have a proper camera system in place. This will cut down the cost of camera system and installation. They will only be paying the charges of the server and database hosted on the server.
+ Choosing AWS, it will cost around Rs. 1kc(for once) and around Rs. 500 for rest 11 months.
 
-
+### 3. Large-scale
+These will have their own server together with proper camera system.
+These oragnisations are the most benifitted. They will hardly payapart from software installation charges.
