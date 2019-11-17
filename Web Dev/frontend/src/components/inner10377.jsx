@@ -42,7 +42,7 @@ class Inner extends Component {
                         <th>Present</th>
                         <th>Absent</th>
                         <th>Total</th>
-                        <th>
+                        <th>Remarks
                         </th>
                     </tr>
                 </thead>

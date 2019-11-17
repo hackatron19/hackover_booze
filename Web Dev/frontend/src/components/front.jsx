@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 //import { BrowserRouter as Router, Link, Route } from "react-router-dom";
 //import Inner10377 from './components/inner10377';
 import '../main.css';
-import '../util.css';
 class Front extends Component {
 	constructor(props) {
         super(props);
