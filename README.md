@@ -54,3 +54,9 @@ We have used a Machine Learning model Keras-OpenFace which is an open source Ker
 ### 3. Large-scale
 These will have their own server together with proper camera system.
 These oragnisations are the most benifitted. They will hardly payapart from software installation charges.
+
+### Contributors
+* [Priyanshu Kumar](https://github.com/priyanshu2510)
+* [Kushagra Singh](https://github.com/sportykush)
+* [Rahul Harlalka](https://github.com/rahulharlalka)
+* [Vishal Gorai](https://github.com/greyhatlinux)
