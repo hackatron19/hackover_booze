@@ -16,6 +16,7 @@ For taking attendance we'll be using the cameras installed in the classroom/offi
 
 Students can view their daily attendance on their ERP which will contain two divisions, a login page for the students with view-access only and an Admin section with read and write access. We will also provide a report option to students and quick response to sort out any issues regarding any faults in attendance marking. 
 
+
 ![Workflow](https://github.com/hackatron19/hackover_booze/blob/master/img/IMG01.jpg)
 
  
