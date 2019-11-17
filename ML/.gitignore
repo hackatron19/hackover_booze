@@ -1,3 +1,11 @@
 .ipynb_checkpoints
-PINS
-
+haar_cascades
+images
+test_images
+attendance.txt
+facefeatures_new_model.h5
+labels.pickle
+recogniser.ipynb
+resnet model.ipynb
+vgg model.ipynb
+../debug.log
