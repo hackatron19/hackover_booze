@@ -10,9 +10,20 @@ body, html {
   font-family: 'Bebas Neue', cursive;
 }
 
-
-
-
+.m-b-26 {margin-bottom: 26px;}
+.m-b-18 {margin-bottom: 18px;}
+.flex-sb-m {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: space-between;
+	-ms-align-items: center;
+	align-items: center;
+}
+.w-full {width: 100%;}
+.p-b-30 {padding-bottom: 30px;}
 a {
 	font-family: 'Bebas Neue', cursive;
 	font-size: 14px;
