@@ -27,6 +27,19 @@ We have used a pre trained model Keras-OpenFace which is an open source Keras im
 
 ------------------------------------------
 
-## ERP Site
+# Future Use Case
+ The growing trend of Machine Learning and its abundant application scenario makes our project a perfect ML implementation. 
+ Our model is deployable in almost all size of organisations, ranging from small-scale village schools to large MNC in place.
+
+ ----
+
+ # Cost Effectiveness
+ The cost factor is highly reliable on the use case.
+ We've divided the scenario into 3 major sections.
+
+ ### 1. Small-scale 
+ These orgs as we assume won't have any of the previous installations, and accordingly we'll have to set up the camera system, server set-up, and the installation. This roughly will cost around 6k.
+
+ ### 2. Mid-scale
 
 
