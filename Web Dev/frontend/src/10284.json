@@ -1,13 +1,13 @@
 {
   "_id": "5b21ca3eeb7f6fbccd471814",
-  "name": "Priyanshu kumar",
-  "roll": "BTECH/10377/18",
+  "name": "KUSHGAGRA SINGH",
+  "roll": "BTECH/10284/18",
   "branch": "IT",
   "subjects": [
     {
       "_id": "5b21ca3eeb7f6fbccd471815",
       "name": "DISCRETE MATHS",
-      "present": 40,
+      "present": 41,
       "absent": "15",
       "smilee": "true"
     },
