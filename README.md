@@ -23,8 +23,15 @@ Students can view their daily attendance on their ERP which will contain two div
 # Technologies Used
 
 ## Facial Recognition
-We have used a pre trained model Keras-OpenFace which is an open source Keras implementation of the OpenFace (Originally Torch implemented)
+We have used a Machine Learning model Keras-OpenFace which is an open source Keras implementation of the OpenFace (Originally Torch implemented)
 
+### Algorithm used
+* Haar Cascade Frontal Face
+* VGG16 with ImageNet weights
+
+## Dev and UI 
+* React JS (for frontend)
+* Node Js (for backend)
 ------------------------------------------
 
 # Future Use Case
