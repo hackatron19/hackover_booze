@@ -6,7 +6,7 @@ fs.readFile('./t.json','utf8',(err, jsonString1) => {
         return
     }
     var content1 = JSON.parse(jsonString1);
-    content1.roll1.forEach(sub=>{
+    content1[1].roll1.forEach(sub=>{
 fs.readFile((path.join('./frontend/src/',sub.roll +'.json')),'utf8',(err, jsonString) => {
     if (err) {
         console.log("File read failed:", err)
@@ -18,7 +18,7 @@ fs.readFile((path.join('./frontend/src/',sub.roll +'.json')),'utf8',(err, jsonSt
     
     content.subjects.forEach(element => {
 
-        if(element.name===content1.sub)
+        if(element.name===content1[0].sub)
         {
             element.present=parseInt(element.present)+1;
         }
